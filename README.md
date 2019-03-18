@@ -5,6 +5,7 @@ It has many features:
 - Spam filters
 - Developer mode
 - Dark theme
-- Etc
+- Support for many devices
+- Lightweight and fast
 
 ### We have switched from https://github.com/shaunakg/worldchat-app
