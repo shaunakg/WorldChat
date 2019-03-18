@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item android:id="@+id/restart_app"
+        android:titleCondensed="Restart"
+        android:title="Restart app"
+        android:icon="@drawable/ic_restart_icon"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/toggle_theme"
+        android:titleCondensed="Theme"
+        android:title="Change theme"
+        android:icon="@drawable/looks_icon"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/clear_errors"
+        android:titleCondensed="Clear errors"
+        android:title="Clear errors"
+        android:icon="@drawable/error_notification_baseline"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/show_disclaimer"
+        android:titleCondensed="Show documents"
+        android:title="Show disclaimer"
+        android:icon="@drawable/ic_document"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="Settings"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/toggle_developer_mode"
+        android:titleCondensed="⚠ Developer Mode"
+        android:title="⚠ Developer Mode (OFF)"
+        android:icon="@drawable/developer_mode_icon"
+        app:showAsAction="ifRoom"/>
+
+    </menu>

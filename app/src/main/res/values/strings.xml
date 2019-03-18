@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">WorldChat v3.0.16</string>
+    <string name="action_bar_name_string">WorldChat Test</string>
+
+    <!--REQUIRED STRINGS (for the app)-->
+    <string name="channel_name">text_notification_channel</string>
+    <string name="channel_description">This is a WorldChat Text Notification Channel.</string>
+
+    <string name="input_placeholder">Write a message</string>
+    <string name="starting_version_info">VERSION 3.0.16 - Report bugs to https://git.io/fxenB, or type \'bug report\'</string>
+    <string name="starting_message">Welcome to WorldChat (v3.0.16)</string>
+    <string name="safe_filter_checkbox_text">Safe filter</string>
+    <string name="message_tap_dialog_title">Choose an option</string>
+    <string name="message_tap_dialog_option_copy">Copy text</string>
+    <string name="message_tap_dialog_option_cancel">Cancel</string>
+    <string name="starting_published_message">A new user has joined the chat!</string>
+    <string name="messageOnTapTitle">Choose an option</string>
+    <string name="starting_version_message">(Version 1.0 Beta)</string>
+    <string name="failed_to_send_toast">Failed to send message (check your internet connection)</string>
+    <string name="internet_not_connected_toast">--- No internet detected, connect to internet and press send ---</string>
+    <string name="disclaimer_dialog_message">Disclaimer: This app does not encrypt your messages or data in any way, other that what Android uses natively.\n\nUse caution when using, and never share personal information via this app.\n\n(The developer(s) of this app cannot be held responsible in any way for what you do with this program)</string>
+    <string name="disclaimer_dialog_title">Disclaimer</string>
+    <string name="license_dialog_title">License (GNU GPLv3 or Later)</string>
+    <string name="license_dialog_message">
+        WorldChat (Global), a global communication program\n
+        Copyright © 2018 @shaunakg (Github)/Shaunak Gadkari (Google Play)\n
+        \n
+        This program is free software: you can redistribute it and/or modify\n
+        it under the terms of the GNU General Public License as published by\n
+        the Free Software Foundation, either version 3 of the License, or\n
+        (at your option) any later version.\n
+        \n
+        This program is distributed in the hope that it will be useful,\n
+        but WITHOUT ANY WARRANTY; without even the implied warranty of\n
+        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n
+        GNU General Public License for more details.\n
+        \n
+        You should have received a copy of the GNU General Public License\n
+        along with this program.  If not, see https://www.gnu.org/licenses/.\n
+        \n
+        \n
+        ScaleDrone Terms of Service: https://www.scaledrone.com/terms\n
+        (Access this license anytime by typing \'license\' in the chat!)\n
+    </string>
+    <string name="no_message_entered_toast">Enter a message to send!</string>
+    <string name="no_internet_default_textbox">No internet detected!</string>
+    <string name="bug_report_dialog_title">Bug Report Information</string>
+    <string name="bug_report_dialog_text">
+        — Submitting a Bug Report —\n
+        This program is open source and located at https://git.io/fxen4\n
+        \n
+        Issues can be submitted at https://git.io/fxenB or on Google Play.\n
+        \n Please also read the disclaimer (shown on startup) before using!
+    </string>
+    <string name="url_detected_toast">To prevent spam, URLs are not allowed in messages.</string>
+    <string name="feature_not_implemented_toast">Feature not implemented. See GitHub repo for more information.</string>
+    <string name="get_license_instructions">Type \'license\' in message send box to view license.</string>
+    <string name="dialog_username_placeholder">Username</string>
+    <string name="dialog_password_placeholder">Password</string>
+    <string name="developer_login_signin">Verify</string>
+    <string name="developer_login_cancel">Cancel</string>
+    <string name="developer_login_keyword">dev112</string>
+    <string name="developer_login_message">Logged in as developer... Welcome!</string>
+    <string name="filtered">--- Filtered inappropriate content ---</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="back_in_global_msg">User back in GLOBAL CHAT</string>
+
+    <!-- Strings related to Settings -->
+    <string name="dev_mode_settings_switch_title">(advanced) Developer Mode</string>
+    <string name="dev_mode_settings_switch_desc">Turns Developer Mode on or off.</string>
+
+
+
+</resources>
